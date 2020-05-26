@@ -1,0 +1,2 @@
+# SCPORedlistHelper
+SCPO Redlist Helper
