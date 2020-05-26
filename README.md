@@ -1,6 +1,9 @@
 # SCPO Redlist Helper - Scratch版权维护协会红名单助手
 
-基于EPL原创模块制作的红名单助手，提供本地查询帮助。
+![](https://img.shields.io/badge/%E5%8F%91%E8%A1%8C%E7%89%88-1.0.1.0-brightgreen) | ![](https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E7%8A%B6%E6%80%81-%E5%81%9C%E7%94%A8-red)
+
+基于EPL原创模块制作的红名单助手，提供本地查询帮助。  
+[更新日志](https://github.com/Someone-Yang/SCPORedlistHelper/blob/master/docs/changelog.md) | [版维官方](https://redlist.zerlight.top:1100/#/)
 
 # 特别警告
 
